@@ -1,0 +1,11 @@
+topic,question,answer
+Invoice,How to generate invoice in BUSY,Go to Transactions > Sales > Sales Invoice, fill in item details and party name, then click Save to generate the invoice.
+Backup,How to take data backup in BUSY,Go to Administration > Company/Data > Backup, select the destination folder, and click Backup Now.
+GST,How to file GST return in BUSY,Go to Reports > GST Reports > GSTR-1, generate the report for the period, and export it in JSON format for filing on the GST portal.
+Ledger,How to create a new ledger account in BUSY,Go to Masters > Accounts > Account Master > Add, enter the account name, select the group, and save.
+Inventory,How to add a new item in inventory,Go to Masters > Inventory > Item > Add, enter item name, unit, and pricing details, then save.
+Payment,How to record a payment voucher,Go to Transactions > Payment, select the ledger account, enter the amount and narration, then save the voucher.
+Receipt,How to record a receipt voucher,Go to Transactions > Receipt, select the party ledger, enter the received amount, and save.
+Reports,How to view profit and loss report,Go to Reports > Financial Reports > Profit & Loss Account to view the summary for the selected period.
+Company,How to create a new company in BUSY,Go to Administration > Company/Data > Company Info > Add New Company, enter company details, and save.
+Multi-User,How to enable multi-user mode in BUSY,Go to Administration > Configuration > Features/Options and enable the Multi-User option, then assign user permissions.
