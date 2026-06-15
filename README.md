@@ -135,7 +135,7 @@ busybot-agentic-rag/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/busybot-agentic-rag.git
+git clone https://github.com/akshsandhu/busybot-agentic-rag.git
 
 cd busybot-agentic-rag
 ```
