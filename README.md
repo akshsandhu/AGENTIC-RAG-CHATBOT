@@ -1,6 +1,6 @@
 # 🤖 BUSYBOT - Agentic RAG Chatbot
 
-An intelligent **Agentic Retrieval-Augmented Generation (RAG) Chatbot** built using **LangGraph, LangChain, Groq LLM, FAISS Vector Database, FastAPI, and Gmail Integration**.
+An intelligent **Agentic Retrieval-Augmented Generation (RAG) Chatbot** built using **LangGraph, LangChain, Groq LLM, FAISS Vector Database,HuggingFace Embedding FastAPI, and Gmail Integration**.
 
 The chatbot automatically routes user queries to the most appropriate agent, retrieves relevant knowledge, invokes external tools, sends emails, and performs answer verification before responding.
 
